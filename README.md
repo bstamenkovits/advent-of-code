@@ -1,4 +1,4 @@
-# Advent of Code
+# Advent of Code ⛄
 This is a repo to host my Advent of Code solutions.
 
 
