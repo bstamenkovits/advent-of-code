@@ -15,7 +15,7 @@ This is a repo to host my Advent of Code solutions. I personally value readabili
 |-|-|-|-|-|-|-|
 |||||[Day 1](2023/AoC_2023_Day1.ipynb)|[Day 2](2023/AoC_2023_Day2.ipynb)|[Day 3](2023/AoC_2023_Day3.ipynb)|
 |[Day 4](2023/AoC_2023_Day4.ipynb)|[Day 5](2023/AoC_2023_Day5.ipynb)|[Day 6](2023/AoC_2023_Day6.ipynb)|[Day 7](2023/AoC_2023_Day7.ipynb)|[Day 8](2023/AoC_2023_Day8.ipynb)|[Day 9](2023/AoC_2023_Day9.ipynb)|[Day 10](2023/AoC_2023_Day10.ipynb)|
-|[Day 11](2023/AoC_2023_Day11.ipynb)|[Day 12](2023/AoC_2023_Day12.ipynb)|-|-|-|-|-|
+|[Day 11](2023/AoC_2023_Day11.ipynb)|[Day 12](2023/AoC_2023_Day12.ipynb)|[Day 13](2023/AoC_2023_Day13.ipynb)|-|-|-|-|
 |-|-|-|-|-|-|-|
 |-|-|-|-|-|-|-|
 
