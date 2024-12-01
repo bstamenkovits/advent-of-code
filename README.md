@@ -9,7 +9,7 @@ This is a repo to host my Advent of Code solutions. In general I strivve to find
 * [Day 5](2023/AoC_2023_Day5.ipynb)
 * [Day 6](2023/AoC_2023_Day6.ipynb)
 * [Day 7](2023/AoC_2023_Day7.ipynb) -->
-*
+
 ## 2024
 |M|T|W|T|F|S|S|
 |-|-|-|-|-|-|-|
