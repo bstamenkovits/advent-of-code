@@ -14,7 +14,7 @@ This is a repo to host my Advent of Code solutions. In general I strivve to find
 |M|T|W|T|F|S|S|
 |-|-|-|-|-|-|-|
 | | | | | | | [Day 1](2024/AoC_2024_Day_01.ipynb) |
-|[Day 2](2024/AoC_2024_Day_02.ipynb)|[Day 3](2024/AoC_2024_Day_03.ipynb)|-|-|-|-|-|
+|[Day 2](2024/AoC_2024_Day_02.ipynb)|[Day 3](2024/AoC_2024_Day_03.ipynb)|[Day 4](2024/AoC_2024_Day_04.ipynb)|-|-|-|-|
 |-|-|-|-|-|-|-|
 |-|-|-|-|-|-|-|
 |-|-|-|-|-|-|-|
